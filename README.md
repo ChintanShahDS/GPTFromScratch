@@ -1,5 +1,6 @@
 # GPTFromScratch
 - Model deployed on https://huggingface.co/spaces/Chintan-Shah/ScratchGPTChar
+- 2 different version done (Uploaded the 2 notebooks)
 
 ## Trained an own GPT from scratch
 - Used a normal GPT architecture with decoder only for prediction next token
